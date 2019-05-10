@@ -17,6 +17,8 @@ An opensource QCM experiment platform
 ## 控制中心
 采用树莓派作为硬件的控制中心和与外部PC交互的server
 
+流程可以是实现编程好的（本地或者远程）（要不要设计一个GUI界面？）
+可以是即时的控制（怎么实现？）
 
 ### 蠕动泵---换液
 
