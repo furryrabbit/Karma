@@ -34,7 +34,7 @@ An opensource QCM experiment platform
 
 ## 数据分析
 
-在个人主机上进行
+在个人主机上进行，（matlab)
 
 
 
