@@ -14,14 +14,15 @@ An opensource QCM experiment platform
 
 封闭流动可以接入自动换液装置，实现编程、遥控下换液。 容积固定，并且换液需要较多液体才能完全置换
 
-## operation component
+## 控制中心
+采用树莓派作为硬件的控制中心和与外部PC交互的server
+
 
 ### 蠕动泵---换液
 
 ### 恒温装置
 
 ### 测量装置（网络分析仪）
-
 
 ### 数据管理
 
